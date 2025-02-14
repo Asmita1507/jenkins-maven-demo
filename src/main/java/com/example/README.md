@@ -1,1 +1,1 @@
-jenkins-maven-demo experiment
+checking build trigger in jenkins
